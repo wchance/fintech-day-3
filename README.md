@@ -6,3 +6,16 @@ I am William Chance an entreprenuer with a good technical background.   I have s
 My goal is to become a Billing and Payments service provider to help companies with Deposits and Withdrawls to above errors and pay to correct fees.
 
 I choose this because I was stuck in telecom and needed a change because I was not going to survive in the path I was going.
+
+# Header 1
+
+![This is picture](https://www.wedevelop.io/)
+
+## Header 2
+
+### Header 3
+
+[Link to folder 1](data)
+[Link to folder 1](mages)
+[Link to folder 1](references)
+
