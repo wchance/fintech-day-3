@@ -9,7 +9,7 @@ I choose this because I was stuck in telecom and needed a change because I was n
 
 # Header 1
 
-![This is picture](https://www.google.com/imgres?imgurl=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F614411%2Fbitcoin-price-chart-cryptocurrency-ethereum-ripple-getty.jpg&imgrefurl=https%3A%2F%2Fwww.fool.com%2Finvesting%2F2021%2F02%2F24%2Fthe-absolute-worst-way-to-invest-in-bitcoin%2F&tbnid=issJg4oDbI5kxM&vet=12ahUKEwi3zsGJxIrvAhX-cTABHR_5DlwQMygBegUIARDUAQ..i&docid=TG2UKzl-klJyaM&w=2128&h=1409&q=Bitcoin&ved=2ahUKEwi3zsGJxIrvAhX-cTABHR_5DlwQMygBegUIARDUAQ)
+![This is picture](https://as1.ftcdn.net/jpg/02/20/89/56/500_F_220895657_7a3YKezmT1EVUKelXuK1w5XM2dR220Vz.jpg)
 
 ## Header 2
 
